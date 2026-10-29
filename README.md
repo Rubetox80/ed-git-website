@@ -6,4 +6,4 @@ In order to create this website we used HTML and CSS.
 
 Instructions:
 1. Open your browser
-2. Copy this URL in your browser: https://rubetox80.github.io/ed-git-website/index.html
+2. Copy this URL in your browser: https://rubetox80.github.io/ed-git-website/
